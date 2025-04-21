@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/229232d0-33bd-4150-a27a-488ca2a8b473)
+
 ###  Email Reminder Bot – Flask Web App
 This project is a Flask-based Email Reminder Bot that allows users to schedule email reminders through a simple web interface. Built with Python, Flask, and integrated email services, the bot helps users automate their daily reminders for tasks, meetings, and more.
 
@@ -29,6 +29,7 @@ This project is a Flask-based Email Reminder Bot that allows users to schedule e
 - •	Public IP: Enabled
 - •	Inbound ports: Allow SSH (22) and Custom port 5000
 - •	Click Review + Create, then Create
+- ![image](https://github.com/user-attachments/assets/229232d0-33bd-4150-a27a-488ca2a8b473)
 - VM is ready
 - •	Login VM into our host machine with your public ip and key that you download while you setup the VM 
 ![image](https://github.com/user-attachments/assets/a7711c1c-f2d8-4740-83da-25c7691744e4)
