@@ -1,4 +1,3 @@
-
 ### 📧 Email Reminder Bot – Flask Web App
 This project is a Flask-based Email Reminder Bot that allows users to schedule email reminders through a simple web interface. Built with Python, Flask, and integrated email services, the bot helps users automate their daily reminders for tasks, meetings, and more.
 
